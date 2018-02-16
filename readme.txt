@@ -6,3 +6,4 @@ I added this line in the update-readme branch.
 It's cloudy outside today.
 
 >>>>>>> update-readme
+I am in my second branch.
