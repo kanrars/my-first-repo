@@ -1,2 +1,0 @@
-It is a test git file.
-it is add on commit to my first file.
